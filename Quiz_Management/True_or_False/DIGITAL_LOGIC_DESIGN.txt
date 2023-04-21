@@ -1,0 +1,1 @@
+T flip flop uses 2 seperate inputs to operate (excluding the clock)

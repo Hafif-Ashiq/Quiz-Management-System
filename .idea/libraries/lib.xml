@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Quiz_Management/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Quiz_Management/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Quiz_Management/lib/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Quiz_Management/lib/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Quiz_Management/lib/poi-ooxml-schemas-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

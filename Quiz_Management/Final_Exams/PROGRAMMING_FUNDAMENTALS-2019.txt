@@ -1,0 +1,52 @@
+____________________________________________________________________________________________________________________
+                              C O M S A T S  University Islamabad
+                                      PROGRAMMING_FUNDAMENTALS
+                                       Terminal Examination 
+ Total Marks - 100                                                                                  Year: 2020
+
+Instructions to Students
+
+>	Write your Name, Registration Number, Campus, Date .
+>	Mobile phone, digital diaries or any other digital storage medium is not allowed.
+>	Type your answers on the same document provided as question paper.
+>	Submit the answer sheet via CU Online Console in the given time. No submissions are allowed via email.
+>	Attempt all questions.
+____________________________________________________________________________________________________________________
+Question-1 :
+------------
+
+True / False.                                                                                  Marks: 40 
+1	Whenever there is at least one relational operator in an expression, t
+	he result of the expression will be either true or false
+2	String is a primitive data Type.
+3	The hexadecimal number system contains digits from 1 - 15
+4	GNU / Linux is a open source operating system.
+5	String is a primitive data Type.
+6	The Language that the computer can understand is called Machine Langua
+	ge
+7	String is a primitive data Type.
+8	The precedence of an operator determines its order of evaluation in an
+	 expression
+
+____________________________________________________________________________________________________________________
+Question-2 :
+------------
+
+Short questions.                                                                                  Marks: 20 
+1	Write code to check a String is palindrome or not?
+2	Write code to check a String is palindrome or not?
+____________________________________________________________________________________________________________________
+Question-3 :
+------------
+Long questions.                                                                                  Marks: 40 
+1	Write a program that randomly generates an integer between 1 and 12 an
+	d displays the English month name January, February, …, December for the number 1, 2, …, 12, accordingly.
+2	Assume a vehicle plate number consists of three uppercase letters foll
+	owed by four digits. Write a program to generate a plate number
+3	Write a program that prompts the user to enter a Social Security numbe
+	r in the format DDD-DDDDDD, where D is a digit
+4	Write a program that prompts the user to enter three integers and disp
+	lay the integers in nondecreasing order
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------- B E S T   O F   L U C K ----------------------------------------------
+--------------------------------------------------------------------------------------------------------------------

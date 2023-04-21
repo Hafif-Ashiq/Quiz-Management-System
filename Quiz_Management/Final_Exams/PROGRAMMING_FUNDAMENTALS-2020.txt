@@ -1,0 +1,59 @@
+____________________________________________________________________________________________________________________
+                              C O M S A T S  University Islamabad
+                                      PROGRAMMING_FUNDAMENTALS
+                                       Terminal Examination 
+ Total Marks - 100                                                                                  Year: 2020
+
+Instructions to Students
+
+>	Write your Name, Registration Number, Campus, Date .
+>	Mobile phone, digital diaries or any other digital storage medium is not allowed.
+>	Type your answers on the same document provided as question paper.
+>	Submit the answer sheet via CU Online Console in the given time. No submissions are allowed via email.
+>	Attempt all questions.
+____________________________________________________________________________________________________________________
+Question-1 :
+------------
+
+True / False.                                                                                  Marks: 30 
+1	Java is easiest programming language
+2	Array length can not be changed after initialization in Java.
+3	Java is easiest programming language
+4	String is a primitive data Type.
+5	Java is an object oriented programming language
+6	Array length can not be changed after initialization in Java.
+7	Array length can not be changed after initialization in Java.
+8	Java is an object oriented programming language
+9	Array length can not be changed after initialization in Java.
+10	Array length can not be changed after initialization in Java.
+11	String is a primitive data Type.
+12	String is a primitive data Type.
+13	Java is an object oriented programming language
+14	String is a primitive data Type.
+15	Array length can not be changed after initialization in Java.
+
+____________________________________________________________________________________________________________________
+Question-2 :
+------------
+
+Short questions.                                                                                  Marks: 40 
+1	Write a method to multiply 2 matrices
+2	Wow
+3	Is it necessary to create class to work in java
+4	What do you mean by object oriented
+5	Wow
+6	What is your name
+7	What is your name
+8	Write a method to multiply 2 matrices
+9	How to drive a vehicle engine
+10	What do you mean by object oriented
+____________________________________________________________________________________________________________________
+Question-3 :
+------------
+Long questions.                                                                                  Marks: 30 
+1	How well do you sing
+2	What is your date of birth?
+3	How well do you sing
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------- B E S T   O F   L U C K ----------------------------------------------
+--------------------------------------------------------------------------------------------------------------------

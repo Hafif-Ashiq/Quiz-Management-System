@@ -1,0 +1,7 @@
+Hafif---3660314502649---+923045153334---19---07hafif@gmail.com---ADMIN
+Saad Anwar---1234567890123---+923030763522---21---saad@gmail.com---TEACHER---PROGRAMMING_FUNDAMENTALS
+Zaeem Ashiq---1111111111111---+921234567899---21---zaeem@gmail.com---STUDENT---15
+Abdullah Mehdi---3660314526985---+923651234569---22---crazysam@gmail.com---TEACHER---PROGRAMMING_FUNDAMENTALS
+Tahir Khan---3660312345678---+921111111111---42---tahirkhan@gmail.com---TEACHER---DIGITAL_LOGIC_DESIGN
+Afif Omer---6666665555554---+927896541230---31---afifomer@gmail.com---STUDENT---14---12---9---3---5
+Itrat Rubab---1236985478521---+928889996532---82---itrat@gmail.com---TEACHER---CALCULUS

@@ -1,0 +1,6 @@
+Write a program that randomly generates an integer between 1 and 12 and displays the English month name January, February, …, December for the number 1, 2, …, 12, accordingly.
+Write a program that prompts the user to enter three integers and display the integers in nondecreasing order
+Assume a vehicle plate number consists of three uppercase letters followed by four digits. Write a program to generate a plate number
+Write a program that displays all the leap years, ten per line, from 101 to 2100, separated by exactly one space. Also display the number of leap years in this period.
+Write a program that prompts the user to enter a decimal integer and displays its corresponding  binary value
+Write a program that prompts the user to enter a Social Security number in the format DDD-DDDDDD, where D is a digit

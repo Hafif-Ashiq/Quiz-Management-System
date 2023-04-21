@@ -1,0 +1,3 @@
+SR latch can be implemented by using ---NAND gate---NOR gate---AND gate---Both A and B are correct---D
+The K-MAP of 4 variable boolean expression will be: ---1X1---2X2---3X3---4X4---D
+what is course name---abcd---dld---pf---calculus---C

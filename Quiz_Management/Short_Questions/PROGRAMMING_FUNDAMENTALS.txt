@@ -1,0 +1,7 @@
+How Scanner.next() is different from Scanner.nextLine()??
+Write a method to multiply 2 matrices
+Is it necessary to create class to work in java
+Define global declaration?
+What is two dimensional array?
+Write code to check a String is palindrome or not?
+Define function?

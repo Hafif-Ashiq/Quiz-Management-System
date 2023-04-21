@@ -1,0 +1,12 @@
+Array length can not be changed after initialization in Java.
+String is a primitive data Type.
+Java is an object oriented programming language
+Java is easiest programming language
+The hexadecimal number system contains digits from 1 - 15
+The Language that the computer can understand is called Machine Language
+GNU / Linux is a open source operating system.
+The precedence of an operator determines its order of evaluation in an expression
+Whenever there is at least one relational operator in an expression, the result of the expression will be either true or false
+Parentheses can be used to change the order of logical operation
+Nested decision structures are one way to test more than one condition
+1 % 2 == 2 * 3 AND 3 <5
