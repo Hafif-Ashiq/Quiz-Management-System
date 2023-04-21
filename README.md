@@ -8,23 +8,23 @@ The project has the feaatures such as:
   - Student/Teacher and Admin mode
   
   The Students can : 
-    - Attempt Quiz
-    - View Marks
-    - View Assignments
-    - View Informations
+  - Attempt Quiz
+  - View Marks
+  - View Assignments
+  - View Informations
 
   The Teachers can:
-    - Upload Quiz
-    - Upload Assignment
-    - Form Final Question Papers
-    - View logs of their Subjects only
-    - Edit Question Bank
-    - Mark Assignments
+  - Upload Quiz
+  - Upload Assignment
+  - Form Final Question Papers
+  - View logs of their Subjects only
+  - Edit Question Bank
+  - Mark Assignments
     
   The Admin have control to all Administrator activity such as:
-    - Adding or Removing Students
-    - Adding or Removing Teachers
-    - Edit Marks
-    - View All Logs
+  - Adding or Removing Students
+  - Adding or Removing Teachers
+  - Edit Marks
+  - View All Logs
     
 The project uses functional programming approach as OOP concepts are not used in this project
